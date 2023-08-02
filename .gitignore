@@ -3,3 +3,9 @@
 _site/
 test/
 Gemfile.lock
+
+.DS_Store
+.env
+environment.env
+.idea/
+__pycache__/
